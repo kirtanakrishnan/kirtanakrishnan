@@ -22,12 +22,11 @@ body {
     background-color: floralwhite;
 }
 
-.navbar .nav > li > a, .navbar .nav > li > a:first-letter,
-.navbar .nav > li.current-menu-item > a, 
-.navbar .nav > li.current-menu-ancestor > a {
+.navbar-custom {
     color: mediumseagreen;
+    background-color: lightpink;
     font-family: Georgia, 'Times New Roman', Times, serif;
-}
+} 
 
 .h1 {
     color: lightpink;
