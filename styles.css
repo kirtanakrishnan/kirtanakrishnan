@@ -28,27 +28,28 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 } 
 
-.h1 {
+h1 {
+    color: lightpink;
+    background-color: floralwhite;
+
+}
+
+h2 {
     color: lightpink;
     background-color: floralwhite;
 }
 
-.h2 {
+h5 {
     color: lightpink;
     background-color: floralwhite;
 }
 
-.h5 {
-    color: lightpink;
-    background-color: floralwhite;
-}
-
-.p {
+p {
     color: mediumseagreen;
     background-color: floralwhite;
 }
 
-.figcaption {
+figcaption {
     color: #9D8A76;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -56,11 +57,11 @@ body {
 
 }
 
-.small {
+small {
     color: #9D8A76;
 }
 
-.a {
+a {
     color: mediumseagreen;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -91,20 +92,25 @@ body {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 85px;
+    color: lightpink;
+    background-color: floralwhite;
     
 }
 
 .where-from-header {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 85px;
-    
+    font-size: 60px;
+    color: lightpink;
+    background-color: floralwhite;
 }
 
 .where-from-text {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 35px;
+    color: lightpink;
+    background-color: floralwhite;
 }
 
 .beach {
@@ -115,7 +121,11 @@ body {
 .where-study-header {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 85px;
+    font-size: 60px;
+    color: lightpink;
+    background-color: floralwhite;
+
+
     
 }
 
@@ -123,6 +133,8 @@ body {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 35px;
+    color: lightpink;
+    background-color: floralwhite;
 }
 
 .club-images {
@@ -142,7 +154,9 @@ body {
 .what-like-header {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 85px;
+    font-size: 60px;
+    color: lightpink;
+    background-color: floralwhite;
     
 }
 
@@ -150,6 +164,8 @@ body {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 35px;
+    color: lightpink;
+    background-color: floralwhite;
 }
 
 .hobbies-images {
