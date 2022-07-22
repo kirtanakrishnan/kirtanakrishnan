@@ -84,8 +84,8 @@ a {
     width: 560;
     height: 560;
     display: block;
-    margin-left: 450px;
-    margin-right: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* About */
@@ -120,6 +120,9 @@ a {
 .beach {
     width: 700;
     height: 441;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .where-study-header {
