@@ -1,0 +1,199 @@
+.row {
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+/* Colors/Common text */
+
+body {
+    background-color: floralwhite;
+}
+
+nav {
+    background-color: lightpink;
+}
+
+.h1 {
+    color: lightpink;
+    background-color: floralwhite;
+}
+
+.h2 {
+    color: lightpink;
+    background-color: floralwhite;
+}
+
+.h5 {
+    color: lightpink;
+    background-color: floralwhite;
+}
+
+.p {
+    color: mediumseagreen;
+    background-color: floralwhite;
+}
+
+.figcaption {
+    color: #9D8A76;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+.small {
+    color: #9D8A76;
+}
+
+.a {
+    color: mediumseagreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Home page */
+
+.welcome-header {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 85px;
+    
+}
+
+.intro-text {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 35px;
+}
+
+.profile-pic {
+    width: 560;
+    height: 560;
+}
+
+/* About */
+
+.about-header {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 85px;
+    
+}
+
+.where-from-header {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 85px;
+    
+}
+
+.where-from-text {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.beach {
+    width: 700;
+    height: 441;
+}
+
+.where-study-header {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 85px;
+    
+}
+
+.where-study-text {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.club-images {
+    display: flex;
+}
+
+.club-image {
+    height: 200px;
+    width: 300px;
+}
+
+.utsav {
+    width: 300;
+    height: 300;
+}
+
+.what-like-header {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 85px;
+    
+}
+
+.what-like-text {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.hobbies-images {
+    display: flex;
+}
+
+.figure {
+    width: 350;
+    height: 450;
+}
+
+.bpl {
+    width: 450;
+    height: 350;
+}
+
+
+/* Projects */
+
+.projects-header {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 85px;
+    
+}
+
+.projects-text {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.card-title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Contact */
+
+.contact-header {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 85px;
+    
+}
+
