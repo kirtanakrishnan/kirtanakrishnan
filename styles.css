@@ -24,7 +24,6 @@ body {
 
 .navbar-custom {
     color: lightpink;
-    background-color: floralwhite;
     font-family: Georgia, 'Times New Roman', Times, serif;
 } 
 
@@ -84,6 +83,9 @@ a {
 .profile-pic {
     width: 560;
     height: 560;
+    display: block;
+    margin-left: 450px;
+    margin-right: 500px;
 }
 
 /* About */
@@ -99,6 +101,7 @@ a {
 
 .where-from-header {
     text-align: center;
+    margin-top: 100px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 60px;
     color: lightpink;
@@ -107,6 +110,7 @@ a {
 
 .where-from-text {
     text-align: center;
+    margin-top: 50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 35px;
     color: lightpink;
