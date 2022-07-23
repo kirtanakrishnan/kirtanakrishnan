@@ -61,7 +61,7 @@ small {
 }
 
 a {
-    color: mediumseagreen;
+    color: #bf94e4;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -113,7 +113,7 @@ a {
     margin-top: 50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 35px;
-    color: mediumseagreen;
+    color: #bf94e4;
     background-color: floralwhite;
 }
 
@@ -140,7 +140,7 @@ a {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 35px;
-    color: mediumseagreen;
+    color: #bf94e4;
     background-color: floralwhite;
 }
 
@@ -149,13 +149,9 @@ a {
 }
 
 .club-image {
+    margin-top: 50px;
     height: 200px;
     width: 300px;
-}
-
-.utsav {
-    width: 300;
-    height: 300;
 }
 
 .what-like-header {
@@ -171,7 +167,7 @@ a {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 35px;
-    color: mediumseagreen;
+    color: #bf94e4;
     background-color: floralwhite;
 }
 
