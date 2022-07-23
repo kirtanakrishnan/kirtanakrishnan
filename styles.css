@@ -46,10 +46,13 @@ h5 {
 p {
     color: #bf94e4;
     background-color: floralwhite;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
 }
 
 figcaption {
-    color: #9D8A76;
+    color: blue;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
@@ -57,7 +60,7 @@ figcaption {
 }
 
 small {
-    color: #9D8A76;
+    color: blue;
 }
 
 a {
