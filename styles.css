@@ -79,6 +79,8 @@ a {
 
 .intro-text {
     text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
     font-family: Georgia, 'Times New Roman', Times, serif;
       font-size: 35px;
 }
