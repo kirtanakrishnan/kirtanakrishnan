@@ -180,14 +180,20 @@ a {
     display: flex;
 }
 
-.figure {
-    width: 150;
-    height: 250;
+.hobbies-image {
+    margin-top: 50px;
+    margin-left: 130px;
+    margin-bottom: 50px;
+    height: 300px;
+    width: 200px;
 }
 
 .bpl {
-    width: 250;
-    height: 150;
+    margin-top: 50px;
+    margin-left: 130px;
+    margin-bottom: 50px;
+    height: 200px;
+    width: 300px;
 }
 
 
